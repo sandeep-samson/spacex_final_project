@@ -24,18 +24,18 @@ Here is a summary of the techniques used to complete my project and the highligh
 ### Highlights and Business Impact:
 
 1. **Improved Model Accuracy**:
-   - The tree-based model achieved an accuracy of approximately 83.33% on test data, and the logistic regression model achieved an accuracy of around 84.64%【8:1†source】.
+   - The tree-based model achieved an accuracy of approximately 83.33% on test data, and the logistic regression model achieved an accuracy of around 84.64%.
 
 2. **Interactive Dashboard for SpaceX Launch Data**:
    - Created an interactive platform for exploring SpaceX's launch records, which visualizes successful launches by site, analyzes payload and launch success correlations, and allows customized data exploration.
-   - This tool helps stakeholders understand SpaceX's launch performance and identify patterns and trends【8:4†source】【8:5†source】.
+   - This tool helps stakeholders understand SpaceX's launch performance and identify patterns and trends.
 
 3. **Insights into Launch Outcomes**:
    - Analyzed factors influencing the success rate of Falcon 9 rocket launches, such as payload range, launch site, and booster version category.
-   - Provided insights that can inform strategic decisions for future missions, such as the finding that payloads above 500 kg have a high success rate while lower payloads struggle【8:4†source】【8:5†source】.
+   - Provided insights that can inform strategic decisions for future missions, such as the finding that payloads above 500 kg have a high success rate while lower payloads struggle.
 
 4. **Decision Tree Model**:
    - The Decision Tree model achieved the highest accuracy (88.93%) among the evaluated models, indicating it is a reliable predictor.
-   - Suggested that further improvements in accuracy can be achieved through hyperparameter tuning, feature engineering, and ensemble methods【8:5†source】.
+   - Suggested that further improvements in accuracy can be achieved through hyperparameter tuning, feature engineering, and ensemble methods.
 
 Overall, my project employed advanced techniques for data collection, analysis, and model tuning, leading to valuable insights and an interactive tool that can significantly impact decision-making processes and strategic planning in rocket launch operations.
